@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Micherlon Santos 
 - 👀 I’m constantly learning and interested in the technologies/languages ​​below:
   
- {* .NET C# / ASP.NET Core
+  * .NET C# / ASP.NET Core
   * HTML5/CSS/Javascript
   * Bancos de dados SQL Server (including ability to model a database from scratch)
   * Python for automations...}
